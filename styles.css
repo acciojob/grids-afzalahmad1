@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+.brown{
+        background-color: brown;
+      }
+      .e2{
+        background-color: rgb(215,191,215);
+      }
+      .e1{
+        background-color: #008081;
+      }
+      .row > div{
+        border: 2px dotted black;
+      }
+      .e3{
+        background-color: #ee82ef;
+      }
+      .e4{
+        background-color: #9ACD32;
+      }
+      .e2{
+        background-color: #ee82ef;
+      }
+      .row div{
+        height: 200px;
+      }
+      .e5{
+        background-color: orange;
+      }
+      .e6{
+        background-color: aqua;
+      }
